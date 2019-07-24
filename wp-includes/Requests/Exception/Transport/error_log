@@ -1,0 +1,2 @@
+[14-Jan-2019 13:32:29 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/admision2017uc/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[23-Jun-2019 08:33:07 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/admision2017uc/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

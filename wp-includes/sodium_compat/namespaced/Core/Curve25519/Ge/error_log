@@ -1,0 +1,5 @@
+[08-Jun-2019 15:11:33 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[08-Jun-2019 15:12:03 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P3' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[08-Jun-2019 15:12:14 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[08-Jun-2019 15:12:34 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Ge_P2' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[08-Jun-2019 15:12:45 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4

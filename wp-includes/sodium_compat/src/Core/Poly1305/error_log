@@ -1,0 +1,1 @@
+[08-Jun-2019 15:08:43 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10

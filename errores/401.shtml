@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>Pontificia Universidad Católica de Chile</title>
+<!-- base href="http://gama.uc.cl/" -->
+<link href="css/uc.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div id="box">
+ <table border="0" cellpadding="0" cellspacing="20" width="60%">
+    <tbody><tr>
+      <td><img src="errors/images/puc.jpg" alt="logo uc" height="132" width="610"></td>
+    </tr>
+    <tr>
+      <td align="center"><p>Error <span class="titulos">401 - P&Aacute;GINA NO AUTORIZADA</span>:<br>
+        <br>
+<span class="di">Lo sentimos, requiere autorizaci&oacute;n para ingresar a esta p&aacute;gina. </span><br>
+      </p>
+        <p class="di">&nbsp;</p>
+        <p class="di">Dirección de Informática<br>
+        </p></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+</body></html>

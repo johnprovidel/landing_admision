@@ -1,0 +1,3 @@
+[08-Jun-2019 14:58:39 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Crypto' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[08-Jun-2019 14:59:31 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_File' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[08-Jun-2019 15:01:22 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Compat' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4

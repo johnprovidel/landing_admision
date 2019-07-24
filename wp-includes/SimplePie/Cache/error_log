@@ -1,0 +1,8 @@
+[14-Jan-2019 13:19:31 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[14-Jan-2019 13:20:11 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[14-Jan-2019 13:21:59 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[14-Jan-2019 13:22:10 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[17-Jun-2019 15:45:53 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[17-Jun-2019 16:40:53 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[17-Jun-2019 19:15:18 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[17-Jun-2019 21:44:17 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/admision2017uc/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58

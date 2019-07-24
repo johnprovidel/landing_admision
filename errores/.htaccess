@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bibliotecas\.uc\.cl$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.bibliotecas\.uc\.cl$
+RewriteRule ^/?$ "http\:\/\/www\.sibuc\.cl\/" [R=301,L]
+

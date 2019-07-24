@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>Pontificia Universidad Cat&oacute;lica de Chile</title>
+	<!-- base href="http://gama.uc.cl/" -->
+	<link href="css/uc.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<div id="box">
+<table border="0" cellpadding="0" cellspacing="20" width="60%">
+	<tbody>
+		<tr>
+			<td><img alt="logo uc" height="132" src="errors/images/puc.jpg" width="610" /></td>
+		</tr>
+		<tr>
+			<td align="center">
+			<p>Error <span class="titulos">403 - PAGINA PROHIBIDA</span>:<br />
+			<br />
+			Lo sentimos parece que intenta acceder a una p&aacute;gina restringida.<br />
+			Aseg&uacute;rese de tipear la URL correcta o seguir un link v&aacute;lido.</p>
+
+			<p class="di"></p>
+
+			<p class="di">Direcci&oacute;n de Inform&aacute;tica</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+</body>
+</html>

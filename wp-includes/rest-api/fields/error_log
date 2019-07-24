@@ -1,0 +1,8 @@
+[14-Jan-2019 13:25:27 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[14-Jan-2019 13:25:36 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[14-Jan-2019 13:25:44 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[14-Jan-2019 13:26:00 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[19-Jun-2019 02:35:39 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[19-Jun-2019 03:46:55 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[19-Jun-2019 05:19:05 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[19-Jun-2019 08:56:22 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/admision2017uc/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17

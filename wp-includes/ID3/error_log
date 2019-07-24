@@ -1,0 +1,46 @@
+[14-Jan-2019 13:10:16 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[14-Jan-2019 13:10:22 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[14-Jan-2019 13:10:25 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[14-Jan-2019 13:10:28 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[14-Jan-2019 13:10:34 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[14-Jan-2019 13:10:36 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[14-Jan-2019 13:11:09 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[14-Jan-2019 13:11:13 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[14-Jan-2019 13:11:22 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[14-Jan-2019 13:11:28 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[14-Jan-2019 13:11:36 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[14-Jan-2019 13:11:40 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[14-Jan-2019 13:11:51 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[14-Jan-2019 13:11:52 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[04-Jun-2019 13:29:32 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[05-Jun-2019 06:04:27 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.dts.php on line 21
+[05-Jun-2019 13:27:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[05-Jun-2019 14:46:02 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.mp3.php on line 25
+[05-Jun-2019 16:06:19 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.id3v1.php on line 18
+[05-Jun-2019 17:14:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[05-Jun-2019 18:31:47 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.apetag.php on line 17
+[05-Jun-2019 19:51:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[05-Jun-2019 22:22:53 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[06-Jun-2019 00:50:36 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[06-Jun-2019 09:39:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[06-Jun-2019 12:14:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[06-Jun-2019 22:13:50 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[06-Jun-2019 23:14:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18

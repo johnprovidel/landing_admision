@@ -1,0 +1,214 @@
+[01-Dec-2017 16:30:37 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/rss-functions.php on line 8
+[01-Dec-2017 16:35:54 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/rss-functions.php on line 8
+[14-Jan-2019 12:48:38 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-setting.php on line 909
+[14-Jan-2019 12:48:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-setting.php on line 909
+[14-Jan-2019 12:48:39 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/rss.php on line 19
+[14-Jan-2019 12:48:42 America/Chicago] PHP Fatal error:  Call to undefined function is_admin() in /home/admision2017uc/public_html/wp-includes/vars.php on line 23
+[14-Jan-2019 12:48:54 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/admision2017uc/public_html/wp-includes/media.php on line 1484
+[14-Jan-2019 12:49:02 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/locale.php on line 10
+[14-Jan-2019 12:49:04 America/Chicago] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/compat.php on line 435
+[14-Jan-2019 12:49:04 America/Chicago] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/compat.php on line 435
+[14-Jan-2019 12:49:04 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/compat.php on line 435
+[14-Jan-2019 12:49:05 America/Chicago] PHP Fatal error:  Call to undefined function is_main_site() in /home/admision2017uc/public_html/wp-includes/update.php on line 709
+[14-Jan-2019 12:49:11 America/Chicago] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/wp-diff.php on line 13
+[14-Jan-2019 12:49:11 America/Chicago] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/wp-diff.php on line 13
+[14-Jan-2019 12:49:11 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/wp-diff.php on line 13
+[14-Jan-2019 12:49:13 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/session.php on line 8
+[14-Jan-2019 12:49:36 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rdf.php on line 8
+[14-Jan-2019 12:49:38 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rss.php on line 8
+[14-Jan-2019 12:49:41 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rss2.php on line 8
+[14-Jan-2019 12:49:42 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-IXR.php on line 42
+[14-Jan-2019 12:49:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/class-IXR.php on line 42
+[14-Jan-2019 12:49:44 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/functions.php on line 8
+[14-Jan-2019 12:49:44 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/functions.php on line 8
+[14-Jan-2019 12:49:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/functions.php on line 8
+[14-Jan-2019 12:49:49 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-atom.php on line 8
+[14-Jan-2019 12:49:54 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-http.php on line 11
+[14-Jan-2019 12:49:54 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-http.php on line 11
+[14-Jan-2019 12:49:54 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/class-http.php on line 11
+[14-Jan-2019 12:49:56 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/class-feed.php on line 9
+[14-Jan-2019 12:50:04 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/ms-settings.php on line 26
+[14-Jan-2019 12:50:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/ms-settings.php on line 26
+[14-Jan-2019 12:50:13 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/class-snoopy.php on line 6
+[14-Jan-2019 12:50:15 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/registration.php on line 7
+[14-Jan-2019 12:50:25 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/rss-functions.php on line 8
+[14-Jan-2019 12:50:31 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/script-loader.php on line 20
+[14-Jan-2019 12:50:31 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/script-loader.php on line 20
+[14-Jan-2019 12:50:31 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/script-loader.php on line 20
+[14-Jan-2019 12:50:41 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/embed-template.php on line 11
+[14-Jan-2019 12:50:47 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/default-widgets.php on line 11
+[14-Jan-2019 12:50:47 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/default-widgets.php on line 11
+[14-Jan-2019 12:50:52 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/admision2017uc/public_html/wp-includes/class.wp-styles.php on line 18
+[14-Jan-2019 12:50:55 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home/admision2017uc/public_html/wp-includes/template-loader.php on line 28
+[14-Jan-2019 12:50:56 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-simplepie.php on line 5
+[14-Jan-2019 12:50:56 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-simplepie.php on line 5
+[14-Jan-2019 12:50:56 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/class-simplepie.php on line 5
+[14-Jan-2019 12:51:02 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/admision2017uc/public_html/wp-includes/default-filters.php on line 17
+[14-Jan-2019 12:51:04 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/admision2017uc/public_html/wp-includes/class.wp-scripts.php on line 18
+[14-Jan-2019 12:51:16 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/nav-menu-template.php on line 11
+[14-Jan-2019 12:51:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/nav-menu-template.php on line 11
+[14-Jan-2019 12:51:21 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-page.php on line 17
+[14-Jan-2019 12:51:24 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-atom-comments.php on line 8
+[14-Jan-2019 12:51:25 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/ms-default-filters.php on line 16
+[14-Jan-2019 12:51:32 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rss2-comments.php on line 8
+[14-Jan-2019 12:51:42 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home/admision2017uc/public_html/wp-includes/class-wp-feed-cache.php on line 17
+[14-Jan-2019 12:51:49 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-comment.php on line 17
+[14-Jan-2019 12:51:55 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-category.php on line 17
+[14-Jan-2019 12:51:59 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[14-Jan-2019 12:52:02 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/admision2017uc/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[14-Jan-2019 12:52:09 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/registration-functions.php on line 7
+[14-Jan-2019 12:52:13 America/Chicago] PHP Fatal error:  Class 'SimplePie_File' not found in /home/admision2017uc/public_html/wp-includes/class-wp-simplepie-file.php on line 17
+[14-Jan-2019 12:52:22 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-panel.php on line 399
+[14-Jan-2019 12:52:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-panel.php on line 399
+[14-Jan-2019 12:52:24 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/admision2017uc/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[14-Jan-2019 12:52:26 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/admision2017uc/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[14-Jan-2019 12:52:29 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[14-Jan-2019 12:52:30 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-control.php on line 652
+[14-Jan-2019 12:52:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-control.php on line 652
+[14-Jan-2019 12:52:33 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-section.php on line 397
+[14-Jan-2019 12:52:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/php54/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-section.php on line 397
+[14-Jan-2019 12:52:44 America/Chicago] PHP Fatal error:  Class 'Requests_Hooks' not found in /home/admision2017uc/public_html/wp-includes/class-wp-http-requests-hooks.php on line 17
+[14-Jan-2019 12:52:49 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/admision2017uc/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[14-Jan-2019 12:52:52 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[14-Jan-2019 12:52:55 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/admision2017uc/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[14-Jan-2019 12:52:58 America/Chicago] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/admision2017uc/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[14-Jan-2019 12:52:59 America/Chicago] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home/admision2017uc/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[14-Jan-2019 12:53:01 America/Chicago] PHP Fatal error:  Class 'WP_Session_Tokens' not found in /home/admision2017uc/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 15
+[14-Jan-2019 12:53:03 America/Chicago] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home/admision2017uc/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[15-Mar-2019 11:21:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/feed-atom.php on line 8
+[20-May-2019 11:08:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/rss.php on line 19
+[20-May-2019 12:42:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/admision2017uc/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/vars.php on line 23
+[20-May-2019 21:46:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/admision2017uc/public_html/wp-includes/media.php:1485
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/media.php on line 1485
+[21-May-2019 05:09:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/locale.php on line 10
+[21-May-2019 07:46:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/admision2017uc/public_html/wp-includes/update.php:801
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/update.php on line 801
+[21-May-2019 21:40:51 America/Chicago] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/wp-diff.php on line 13
+[21-May-2019 21:40:52 America/Chicago] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/wp-diff.php on line 13
+[21-May-2019 21:40:52 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/wp-diff.php on line 13
+[22-May-2019 00:08:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/session.php on line 8
+[22-May-2019 15:30:42 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/ms-site.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/ms-blogs.php on line 11
+[22-May-2019 15:30:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-site.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/ms-blogs.php on line 11
+[23-May-2019 02:51:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/feed-rdf.php on line 8
+[23-May-2019 03:58:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/feed-rss.php on line 8
+[23-May-2019 06:24:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/feed-rss2.php on line 8
+[23-May-2019 07:56:50 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-IXR.php on line 42
+[23-May-2019 07:56:50 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/class-IXR.php on line 42
+[23-May-2019 09:06:07 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/functions.php on line 8
+[23-May-2019 09:06:07 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/functions.php on line 8
+[23-May-2019 09:06:07 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/functions.php on line 8
+[23-May-2019 12:34:49 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-http.php on line 11
+[23-May-2019 12:34:49 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-http.php on line 11
+[23-May-2019 12:34:49 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/class-http.php on line 11
+[23-May-2019 12:35:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/class-feed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/class-feed.php on line 9
+[23-May-2019 18:39:29 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/ms-settings.php on line 35
+[23-May-2019 18:39:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/ms-settings.php on line 35
+[23-May-2019 20:37:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/class-snoopy.php on line 6
+[23-May-2019 21:53:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/registration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/registration.php on line 7
+[24-May-2019 13:12:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/rss-functions.php on line 8
+[24-May-2019 18:11:00 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/script-loader.php on line 20
+[24-May-2019 18:11:00 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/script-loader.php on line 20
+[24-May-2019 18:11:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/script-loader.php on line 20
+[25-May-2019 01:46:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/embed-template.php on line 11
+[26-May-2019 01:41:26 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/default-widgets.php on line 11
+[26-May-2019 01:41:26 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/default-widgets.php on line 11
+[26-May-2019 05:26:39 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/admision2017uc/public_html/wp-includes/class.wp-styles.php on line 18
+[26-May-2019 06:44:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/admision2017uc/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/template-loader.php on line 7
+[26-May-2019 08:02:56 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-simplepie.php on line 5
+[26-May-2019 08:02:56 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-simplepie.php on line 5
+[26-May-2019 08:02:56 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/class-simplepie.php on line 5
+[26-May-2019 13:03:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/admision2017uc/public_html/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/default-filters.php on line 17
+[26-May-2019 15:39:47 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/admision2017uc/public_html/wp-includes/class.wp-scripts.php on line 18
+[26-May-2019 19:21:03 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/nav-menu-template.php on line 11
+[26-May-2019 19:21:03 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/nav-menu-template.php on line 11
+[27-May-2019 09:21:24 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-page.php on line 17
+[27-May-2019 09:30:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/feed-atom-comments.php on line 8
+[27-May-2019 10:38:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/ms-default-filters.php on line 16
+[27-May-2019 15:49:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/admision2017uc/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/feed-rss2-comments.php on line 8
+[28-May-2019 06:44:30 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home/admision2017uc/public_html/wp-includes/class-wp-feed-cache.php on line 17
+[28-May-2019 20:13:13 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-comment.php on line 17
+[29-May-2019 01:21:46 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-category.php on line 17
+[29-May-2019 05:09:48 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[29-May-2019 08:56:06 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/admision2017uc/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-May-2019 15:21:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/admision2017uc/public_html/wp-includes/registration-functions.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/registration-functions.php on line 7
+[29-May-2019 21:34:32 America/Chicago] PHP Fatal error:  Class 'SimplePie_File' not found in /home/admision2017uc/public_html/wp-includes/class-wp-simplepie-file.php on line 17
+[30-May-2019 03:56:30 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-panel.php on line 382
+[30-May-2019 03:56:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-panel.php on line 382
+[30-May-2019 05:12:08 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/admision2017uc/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[30-May-2019 06:29:47 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/admision2017uc/public_html/wp-includes/class-wp-http-ixr-client.php on line 8
+[30-May-2019 07:35:17 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-setting.php on line 947
+[30-May-2019 07:35:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-setting.php on line 947
+[30-May-2019 10:12:50 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[30-May-2019 11:31:20 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-control.php on line 696
+[30-May-2019 11:31:20 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-control.php on line 696
+[30-May-2019 12:31:45 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-includes/class-wp-customize-section.php on line 379
+[30-May-2019 12:31:45 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-includes/class-wp-customize-section.php on line 379
+[31-May-2019 09:46:07 America/Chicago] PHP Fatal error:  Class 'Requests_Hooks' not found in /home/admision2017uc/public_html/wp-includes/class-wp-http-requests-hooks.php on line 17
+[31-May-2019 13:39:32 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/admision2017uc/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[31-May-2019 16:12:48 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/admision2017uc/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[31-May-2019 18:40:17 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/admision2017uc/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[31-May-2019 21:19:59 America/Chicago] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/admision2017uc/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[31-May-2019 22:33:03 America/Chicago] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home/admision2017uc/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[31-May-2019 23:50:40 America/Chicago] PHP Fatal error:  Class 'WP_Session_Tokens' not found in /home/admision2017uc/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[01-Jun-2019 00:57:57 America/Chicago] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home/admision2017uc/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
