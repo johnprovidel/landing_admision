@@ -1,0 +1,80 @@
+[02-Jun-2019 09:57:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/rss.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/rss.php on line 137
+[02-Jun-2019 13:10:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/admision2017uc/public_html/wp-includes/blocks/block.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/block.php on line 32
+[03-Jun-2019 00:29:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/search.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/search.php on line 82
+[03-Jun-2019 02:53:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/calendar.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/calendar.php on line 75
+[03-Jun-2019 04:09:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/archives.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/archives.php on line 147
+[03-Jun-2019 05:29:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/tag-cloud.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/tag-cloud.php on line 71
+[03-Jun-2019 15:29:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/shortcode.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/shortcode.php on line 32
+[03-Jun-2019 22:25:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/categories.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/categories.php on line 102
+[04-Jun-2019 12:16:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/latest-posts.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/latest-posts.php on line 131
+[05-Jun-2019 23:40:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/admision2017uc/public_html/wp-includes/blocks/latest-comments.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/latest-comments.php on line 153
+[08-Jun-2019 14:57:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/admision2017uc/public_html/wp-includes/blocks/block.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/block.php on line 32
+[08-Jun-2019 14:57:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/archives.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/archives.php on line 147
+[08-Jun-2019 14:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/categories.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/categories.php on line 102
+[08-Jun-2019 14:57:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/rss.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/rss.php on line 137
+[08-Jun-2019 14:57:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/search.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/search.php on line 82
+[08-Jun-2019 14:57:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/calendar.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/calendar.php on line 75
+[08-Jun-2019 14:57:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/tag-cloud.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/tag-cloud.php on line 71
+[08-Jun-2019 14:57:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/shortcode.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/shortcode.php on line 32
+[08-Jun-2019 14:58:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/admision2017uc/public_html/wp-includes/blocks/latest-posts.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/latest-posts.php on line 131
+[08-Jun-2019 14:58:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function register_block_type() in /home/admision2017uc/public_html/wp-includes/blocks/latest-comments.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-includes/blocks/latest-comments.php on line 153

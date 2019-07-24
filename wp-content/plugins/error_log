@@ -1,0 +1,1 @@
+[26-Feb-2017 21:44:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/admision2017uc/public_html/wp-content/plugins/hello.php on line 60

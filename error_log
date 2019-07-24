@@ -1,0 +1,21 @@
+[16-Jan-2019 22:11:06 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-settings.php on line 19
+[16-Jan-2019 22:11:06 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/admision2017uc/public_html/wp-settings.php on line 19
+[16-Jan-2019 22:11:06 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/php71/lib/php') in /home/admision2017uc/public_html/wp-settings.php on line 19
+[08-Apr-2019 13:26:28 UTC] PHP Warning:  mysqli_query(): (70100/1317): Query execution was interrupted in /home/admision2017uc/public_html/wp-includes/wp-db.php on line 1942
+[08-Apr-2019 13:26:28 UTC] WordPress database error Query execution was interrupted for query SELECT name, val, autoload FROM adm2017_wfConfig WHERE name = 'detectProxyRecommendation' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/wordfence/wordfence.php'), wordfence::install_actions, wfLog->initLogRequest, wfUtils::getIP, wfUtils::getIPAndServerVariable, wfConfig::get
+[08-Apr-2019 13:26:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admision2017uc/public_html/wp-includes/wp-db.php:1942) in /home/admision2017uc/public_html/wp-includes/functions.php on line 3808
+[08-Apr-2019 13:26:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/admision2017uc/public_html/wp-includes/functions.php:3810) in /home/admision2017uc/public_html/wp-includes/functions.php on line 3808
+[25-Jun-2019 22:18:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wdi_feed() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/single.php:16
+Stack trace:
+#0 /home/admision2017uc/public_html/wp-includes/template-loader.php(78): include()
+#1 /home/admision2017uc/public_html/wp-blog-header.php(19): require_once('/home/admision2...')
+#2 /home/admision2017uc/public_html/index.php(17): require('/home/admision2...')
+#3 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/single.php on line 16
+[25-Jun-2019 22:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wdi_feed() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/single.php:16
+Stack trace:
+#0 /home/admision2017uc/public_html/wp-includes/template-loader.php(78): include()
+#1 /home/admision2017uc/public_html/wp-blog-header.php(19): require_once('/home/admision2...')
+#2 /home/admision2017uc/public_html/index.php(17): require('/home/admision2...')
+#3 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/single.php on line 16

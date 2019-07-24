@@ -1,0 +1,2 @@
+[08-Jun-2019 15:08:59 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_ChaCha20_IetfCtx' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php on line 4
+[08-Jun-2019 15:10:32 America/Chicago] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_ChaCha20_Ctx' not found in /home/admision2017uc/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php on line 4

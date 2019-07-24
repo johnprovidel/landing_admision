@@ -1,0 +1,7 @@
+[15-Jan-2019 01:34:45 America/Chicago] PHP Fatal error:  Cannot redeclare random_int() in /home/admision2017uc/public_html/wp-includes/random_compat/random_int.php on line 191
+[15-Jan-2019 01:36:42 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home/admision2017uc/public_html/wp-includes/random_compat/random_bytes_mcrypt.php on line 76
+[15-Jan-2019 01:37:21 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home/admision2017uc/public_html/wp-includes/random_compat/random_bytes_openssl.php on line 83
+[15-Jan-2019 01:38:05 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home/admision2017uc/public_html/wp-includes/random_compat/random_bytes_libsodium.php on line 86
+[15-Jan-2019 12:49:40 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home/admision2017uc/public_html/wp-includes/random_compat/random_bytes_com_dotnet.php on line 81
+[15-Jan-2019 12:51:13 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home/admision2017uc/public_html/wp-includes/random_compat/random_bytes_dev_urandom.php on line 148
+[15-Jan-2019 12:52:44 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home/admision2017uc/public_html/wp-includes/random_compat/random_bytes_libsodium_legacy.php on line 86

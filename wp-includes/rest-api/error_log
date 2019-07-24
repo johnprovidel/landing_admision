@@ -1,0 +1,2 @@
+[14-Jan-2019 13:11:50 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/admision2017uc/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[07-Jun-2019 10:26:31 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/admision2017uc/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

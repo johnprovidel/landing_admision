@@ -1,0 +1,4 @@
+[14-Jan-2019 13:23:57 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/admision2017uc/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[14-Jan-2019 13:24:27 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/admision2017uc/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[17-Jun-2019 20:27:27 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/admision2017uc/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[18-Jun-2019 00:28:03 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/admision2017uc/public_html/wp-includes/Requests/Exception/Transport.php on line 3

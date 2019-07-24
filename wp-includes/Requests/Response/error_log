@@ -1,0 +1,2 @@
+[14-Jan-2019 13:22:12 America/Chicago] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/admision2017uc/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[17-Jun-2019 23:05:23 America/Chicago] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/admision2017uc/public_html/wp-includes/Requests/Response/Headers.php on line 13

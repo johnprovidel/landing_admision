@@ -1,0 +1,68 @@
+[01-Dec-2017 16:31:00 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[01-Dec-2017 16:36:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[15-Mar-2018 03:47:41 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[19-Mar-2018 01:05:56 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[20-Mar-2018 07:26:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[21-Mar-2018 01:12:54 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[20-Jul-2018 05:34:42 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[20-Jul-2018 05:34:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[20-Jul-2018 05:34:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[19-Aug-2018 08:15:53 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[19-Aug-2018 08:15:53 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[19-Aug-2018 08:15:55 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[06-Nov-2018 10:03:09 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[06-Nov-2018 10:03:17 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[26-Dec-2018 09:54:48 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[26-Dec-2018 09:54:48 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[26-Dec-2018 09:54:48 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[26-Dec-2018 09:54:48 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[31-Dec-2018 06:14:02 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[31-Dec-2018 06:14:02 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[31-Dec-2018 06:14:04 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[31-Dec-2018 08:04:12 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[31-Dec-2018 08:04:13 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[31-Dec-2018 08:04:13 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[18-Jan-2019 18:56:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[03-Feb-2019 06:45:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[03-Feb-2019 06:45:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[03-Feb-2019 06:45:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[03-Feb-2019 06:45:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[19-Feb-2019 14:50:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2
+[19-Feb-2019 14:50:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[19-Feb-2019 14:50:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[19-Feb-2019 14:55:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/archive.php on line 1
+[19-Feb-2019 14:55:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/index.php on line 1
+[19-Feb-2019 14:55:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/admision2017uc/public_html/wp-content/themes/webkit_uc_wp/header.php on line 2

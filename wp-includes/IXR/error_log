@@ -1,0 +1,4 @@
+[14-Jan-2019 13:13:13 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/admision2017uc/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[14-Jan-2019 13:13:14 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/admision2017uc/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[06-Jun-2019 17:12:04 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/admision2017uc/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[06-Jun-2019 23:17:49 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/admision2017uc/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

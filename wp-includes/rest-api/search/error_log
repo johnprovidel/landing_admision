@@ -1,0 +1,2 @@
+[01-May-2019 08:13:44 America/Chicago] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/admision2017uc/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 15
+[18-Jun-2019 17:58:48 America/Chicago] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/admision2017uc/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 15

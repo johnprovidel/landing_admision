@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>Pontificia Universidad Cat&oacute;lica de Chile</title>
+	<link href="css/uc.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<div id="box">
+<table border="0" cellpadding="0" cellspacing="20" width="60%">
+	<tbody>
+		<tr>
+			<td><img alt="logo uc" height="132" src="errors/images/puc.jpg" width="610" /></td>
+		</tr>
+		<tr>
+			<td align="center">
+			<p>Error <span class="titulos">503 - SERVIDORES OCUPADOS</span>:<br />
+			<br />
+			Lo sentimos, nuestros servidores est&aacute;n ocupados. Por favor, int&eacute;ntelo<br />
+			en unos minutos m&aacute;s.<br />
+			<br />
+			Si permanece esta situaci&oacute;n, contactar a:<br />
+			Correo: 5555@uc.cl<br />
+			Tel&eacute;fono: +56 2 2354 5555<br />
+			&nbsp;</p>
+
+			<p class="di">Direcci&oacute;n de Inform&aacute;tica</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+</body>
+</html>
